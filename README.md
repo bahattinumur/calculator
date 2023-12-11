@@ -12,5 +12,5 @@ This project is a simple calculator created using HTML, CSS, and JavaScript. It 
 
 <h2> Screen Gif </h2>
 
-
+![](gcal.gif)
 
